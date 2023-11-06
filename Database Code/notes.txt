@@ -11,4 +11,3 @@ PYTHON
 
 PLAN
 - Figure out secure way to store passwords
-- SET UP THE FUCKING MYSQL
