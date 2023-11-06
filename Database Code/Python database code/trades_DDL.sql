@@ -3,6 +3,9 @@ CREATE DATABASE trades;
 CREATE TABLE trades(    
     TRADE_ID int,
     USERNAME varchar(255),
-    MESSAGE_CONTENT varchar(255)
+    TRADE_TIME DATETIME,
+    COIN_NAME varchar(255),
+    COIN_AMOUNT FLOAT,
+    USD_AMOUNT FLOAT,
     PRIMARY KEY (TRADE_ID)
 );
