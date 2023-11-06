@@ -1,0 +1,14 @@
+C#
+Data produced: chatlog username, 
+Data consumed:
+store authentication data 
+per user info 
+will have C# talking to database for authentication (write some queries)
+
+PYTHON
+-saving transaction data (time, coin, amount, us dollar)
+-need to store wallet, api key, coinbase authentication data 
+
+PLAN
+- Figure out secure way to store passwords
+- SET UP THE FUCKING MYSQL
