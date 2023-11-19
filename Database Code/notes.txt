@@ -11,3 +11,14 @@ PYTHON
 
 PLAN
 - Figure out secure way to store passwords
+
+
+PLAN 11/19
+- Download all code on server and begin to build 
+- Get code in C#/python written to use the queries (can we do make users/log in on C# side, can we store and retrieve transactions in Python)
+  - Make test data in database to test those queries against
+  - Modify query code to have appropriate variables
+
+- Ensure data has remained normalized 
+- Create method of keeping sensitive data secure 
+- Look into feasability of building online server
