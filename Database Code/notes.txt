@@ -19,6 +19,7 @@ PLAN 11/19
   - Make test data in database to test those queries against
   - Modify query code to have appropriate variables
   - Build algorithms to use queries 
+  - Python code will be at main.py line 71, buy and sell functions
 
 - Ensure data has remained normalized 
 - Create method of keeping sensitive data secure 
