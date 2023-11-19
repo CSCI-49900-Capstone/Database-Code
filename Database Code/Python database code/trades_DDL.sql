@@ -2,6 +2,7 @@ CREATE DATABASE trades;
 
 CREATE TABLE trades(    
     TRADE_ID int,
+    TRADE_TYPE varchar(255),
     USERNAME varchar(255),
     TRADE_TIME DATETIME,
     COIN_NAME varchar(255),
