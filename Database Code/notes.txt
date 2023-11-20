@@ -8,7 +8,7 @@ will have C# talking to database for authentication (write some queries)
 PYTHON
 -saving transaction data (time, coin, amount, us dollar)
 -need to store wallet, api key, coinbase authentication data 
-
+- need to get k ratio
 PLAN
 - Figure out secure way to store passwords
 
